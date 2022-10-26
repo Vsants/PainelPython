@@ -15,7 +15,7 @@ Ao clicar no botão de "entrar" é possível ver a seguinte mensagem no terminal
 ### O projeto pode vir a ter upgrades no futuro.
 
 ________________________________________________________________________________________________________
-##Interface with PySimpleGUI
+## Interface with PySimpleGUI
 
 This is a simple project to develop a login interface using the Python language.
 as the project does not have a database to record new logins, it has a username and password defined
