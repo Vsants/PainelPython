@@ -1,10 +1,10 @@
 from PySimpleGUI import PySimpleGUI as sg;
 
 #Layout
-sg.theme('Reddit')
+sg.theme('DarkBlue')
 layout = [
-    [sg.Text('Usuário'), sg.Input(key='usuario', size=(25,1))],
-    [sg.Text('Senha'), sg.Input(key='senha', password_char='*',  size=(25,1))],
+    [sg.Text('Usuário'), sg.Input(key='usuario', size=(40,3))],
+    [sg.Text('Senha'), sg.Input(key='senha', password_char='*', size=(40,3))],
     [sg.Checkbox('Lembrar login')],
     [sg.Button('Entrar')]
 ]
