@@ -28,3 +28,7 @@ When clicking on the "enter" button, you can see the following message in the te
 
 
 ### The project may have upgrades in the future.
+![Print1](https://user-images.githubusercontent.com/49729387/197920002-337b98ae-b409-4f07-8eaf-57d82419d5e8.png)
+![Print2](https://user-images.githubusercontent.com/49729387/197920015-b9e4753a-5d24-4c78-a44d-575d370f6232.png)
+
+
